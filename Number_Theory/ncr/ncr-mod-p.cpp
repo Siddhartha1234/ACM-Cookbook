@@ -1,4 +1,4 @@
-/* ncr % p in < O(N), O(1) > */
+/* ncr % p in < O(N), O(logp) > */
 
 #include <iostream>
 #include <cassert>
